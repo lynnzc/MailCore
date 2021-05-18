@@ -159,8 +159,8 @@
         "repositoryURL": "https://github.com/IBM-Swift/Swift-SMTP.git",
         "state": {
           "branch": null,
-          "revision": "496f779a073991609cf3745214e49449d9b5db24",
-          "version": "5.1.0"
+          "revision": "75ba1b9c0f524f9f3a87f19d87c1a3f2dfb8710f",
+          "version": "5.1.2"
         }
       },
       {
@@ -195,8 +195,8 @@
         "repositoryURL": "https://github.com/vapor/vapor.git",
         "state": {
           "branch": null,
-          "revision": "c86ada59b31c69f08a6abd4f776537cba48d5df6",
-          "version": "3.3.0"
+          "revision": "92a58a9a84e4330500b99fe355a94d29f67abe58",
+          "version": "3.3.1"
         }
       },
       {
@@ -204,8 +204,8 @@
         "repositoryURL": "https://github.com/twof/VaporMailgunService.git",
         "state": {
           "branch": null,
-          "revision": "353706a5c73f4aa79494a9bc681113bd5400017f",
-          "version": "1.5.0"
+          "revision": "9c41e744bced6f2f854bd3632333d57d6db46d51",
+          "version": "1.8.1"
         }
       },
       {

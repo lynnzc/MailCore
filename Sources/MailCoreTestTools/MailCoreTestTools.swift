@@ -13,6 +13,9 @@ import VaporTestTools
 
 
 public class MailerMock: MailerService {
+    public func send(_ messages: [Mailer.Message], on req: Request) throws -> EventLoopFuture<[(Mail, Mailer.Result)]> {
+        throw Abort(.notImplemented, reason: "Sending mass email mock is not currently supported.")
+    }
     
     public var result: Mailer.Result = .success
     public var receivedMessage: Mailer.Message?
